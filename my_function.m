@@ -18,3 +18,5 @@ res1=foo-bar;
 res2=foo*bar;
 
 res3=foo/bar;
+
+res4=res2+res3;
