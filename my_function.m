@@ -16,3 +16,5 @@ result=foo+bar;
 
 res1=foo-bar;
 res2=foo*bar;
+
+res3=foo/bar;
