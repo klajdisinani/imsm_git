@@ -15,3 +15,4 @@ bar=3;
 result=foo+bar;
 
 res1=foo-bar;
+res2=foo*bar;
