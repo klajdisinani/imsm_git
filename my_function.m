@@ -9,3 +9,7 @@
 % #import <Foundation/Foundation.h>
 
 % adding code 
+
+foo=1;
+bar=3;
+result=foo+bar;
