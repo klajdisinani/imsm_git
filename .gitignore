@@ -17,3 +17,5 @@ vignettes/*.pdf
 
 #data directory
 data/
+
+.DS_Store
