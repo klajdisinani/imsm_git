@@ -19,5 +19,4 @@ res2=foo*bar;
 
 newvar=res1+res2;
 
-
-clyde=5;
+benazir=22;
