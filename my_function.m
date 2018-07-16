@@ -22,3 +22,17 @@ newvar=res1+res2;
 benazir=22;
 
 % add even more stuff
+
+
+# here is some C++ code added
+
+#include <iostream> 
+#include <iomanip>
+
+#include <string>
+
+int main(){
+
+   cout<< "Hello";
+   return 0;
+}
