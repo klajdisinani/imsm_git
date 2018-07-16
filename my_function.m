@@ -9,3 +9,6 @@
 % #import <Foundation/Foundation.h>
 
 % adding code 
+
+foo='this';
+bar='that';
